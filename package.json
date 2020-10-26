@@ -1,0 +1,15 @@
+{
+  "name": "tsc-jsdoc-2",
+  "version": "0.0.0",
+  "description": "demo tsc + jsdoc issue",
+  "main": "src/index.js",
+  "author": "jrobinsonmedia@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "typings":"tsc"
+  }
+}

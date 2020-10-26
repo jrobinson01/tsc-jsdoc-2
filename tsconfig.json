@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esNext",
+    "module": "esNext",
+    "lib": ["es2015"],
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitThis": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "moduleResolution": "node",
+  },
+  "include": ["src/index.js"],
+  "exclude": ["**/*.d.ts", "node_modules"]
+}
